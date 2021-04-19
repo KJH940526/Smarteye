@@ -1,0 +1,28 @@
+{
+    "BoardData": [
+      {
+        "id": 1,
+        "name": "김개똥1",
+        "title": "SPA 개념1",
+        "contents": "나는 개똥이입니다.1"
+      },
+      {
+        "id": 2,
+        "name": "김개똥2",
+        "title": "SPA 개념2",
+        "contents": "나는 개똥이입니다.2"
+      },
+      {
+        "id": 3,
+        "name": "김개똥3",
+        "title": "SPA 개념3",
+        "contents": "나는 개똥이입니다.3"
+      },
+      {
+        "id": 4,
+        "name": "김개똥4",
+        "title": "SPA 개념4",
+        "contents": "나는 개똥이입니다.4"
+      }
+    ]
+  }
